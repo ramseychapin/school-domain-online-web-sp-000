@@ -28,5 +28,5 @@ class School
       names.sort!
     end
   end
-
+end
 end
