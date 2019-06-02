@@ -1,9 +1,11 @@
 # code here!
 def School
 
+  roster = {}
+
   def initialize(school_name)
     @school = school_name
-    @roster = {}
+
   end
 
   def roster
