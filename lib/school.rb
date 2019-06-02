@@ -1,8 +1,8 @@
 # code here!
 def School
 
-  def initialize(school)
-    @school = school
+  def initialize(name)
+    @name = name
     @roster = {}
   end
 
